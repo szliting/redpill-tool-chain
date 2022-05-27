@@ -2,6 +2,9 @@
 
 [![构建](https://github.com/tossp/redpill-tool-chain/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/tossp/redpill-tool-chain/actions/workflows/test.yml)
 
+仅自用测试，请勿使用！
+感谢项目作者！如需请使用原作者的！
+
 这是一个测试项目，可能会有不可预测的事情发生（比如：毁损数据、烧毁硬件等等），请**谨慎使用**。
 
 [English](README_EN.md "English")
